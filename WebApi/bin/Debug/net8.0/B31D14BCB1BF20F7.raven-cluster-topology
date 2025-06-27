@@ -1,0 +1,1 @@
+{"Topology":{"TopologyId":"c099f561-01b3-4e7d-9f06-1245e48dd32c","Members":{"A":"http://127.0.0.1:8080"},"Promotables":{},"Watchers":{},"LastNodeId":"A","Etag":99},"Leader":"A","NodeTag":"A","ServerRole":"Member","Etag":99,"PersistedAt":"2025-05-31T23:04:44.8231269+00:00"}

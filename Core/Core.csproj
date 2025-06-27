@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net8.0</TargetFramework>
+    </PropertyGroup>
+
+    <ItemGroup>
+        <PackageReference Include="JetBrains.Annotations" Version="2020.1.0" />
+        <PackageReference Include="Microsoft.Azure.Cosmos" Version="3.51.0" />
+        <PackageReference Include="SimpleInjector" Version="4.0.8" />
+        <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
+    </ItemGroup>
+
+    <ItemGroup>
+        <ProjectReference Include="..\Entities\Entities.csproj" />
+        <ProjectReference Include="..\Data\Data.csproj" />
+    </ItemGroup>
+
+</Project>

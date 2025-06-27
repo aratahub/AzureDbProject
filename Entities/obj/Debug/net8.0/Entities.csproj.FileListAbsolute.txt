@@ -1,0 +1,15 @@
+C:\AzureDbProject\Entities\bin\Debug\net8.0\Entities.deps.json
+C:\AzureDbProject\Entities\bin\Debug\net8.0\Entities.dll
+C:\AzureDbProject\Entities\bin\Debug\net8.0\Entities.pdb
+C:\AzureDbProject\Entities\bin\Debug\net8.0\Common.dll
+C:\AzureDbProject\Entities\bin\Debug\net8.0\Common.pdb
+C:\AzureDbProject\Entities\obj\Debug\net8.0\Entities.csproj.AssemblyReference.cache
+C:\AzureDbProject\Entities\obj\Debug\net8.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\AzureDbProject\Entities\obj\Debug\net8.0\Entities.AssemblyInfoInputs.cache
+C:\AzureDbProject\Entities\obj\Debug\net8.0\Entities.AssemblyInfo.cs
+C:\AzureDbProject\Entities\obj\Debug\net8.0\Entities.csproj.CoreCompileInputs.cache
+C:\AzureDbProject\Entities\obj\Debug\net8.0\Entities.csproj.CopyComplete
+C:\AzureDbProject\Entities\obj\Debug\net8.0\Entities.dll
+C:\AzureDbProject\Entities\obj\Debug\net8.0\refint\Entities.dll
+C:\AzureDbProject\Entities\obj\Debug\net8.0\Entities.pdb
+C:\AzureDbProject\Entities\obj\Debug\net8.0\ref\Entities.dll

@@ -1,0 +1,58 @@
+C:\sample-project-main\Data\bin\Debug\net8.0\Data.deps.json
+C:\sample-project-main\Data\bin\Debug\net8.0\Data.dll
+C:\sample-project-main\Data\bin\Debug\net8.0\Data.pdb
+C:\sample-project-main\Data\bin\Debug\net8.0\BusinessEntities.dll
+C:\sample-project-main\Data\bin\Debug\net8.0\Common.dll
+C:\sample-project-main\Data\bin\Debug\net8.0\BusinessEntities.pdb
+C:\sample-project-main\Data\bin\Debug\net8.0\Common.pdb
+C:\sample-project-main\Data\obj\Debug\net8.0\Data.csproj.AssemblyReference.cache
+C:\sample-project-main\Data\obj\Debug\net8.0\Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\sample-project-main\Data\obj\Debug\net8.0\Data.AssemblyInfoInputs.cache
+C:\sample-project-main\Data\obj\Debug\net8.0\Data.AssemblyInfo.cs
+C:\sample-project-main\Data\obj\Debug\net8.0\Data.csproj.CoreCompileInputs.cache
+C:\sample-project-main\Data\obj\Debug\net8.0\Data.sourcelink.json
+C:\sample-project-main\Data\obj\Debug\net8.0\Data.dll
+C:\sample-project-main\Data\obj\Debug\net8.0\refint\Data.dll
+C:\sample-project-main\Data\obj\Debug\net8.0\Data.pdb
+C:\sample-project-main\Data\obj\Debug\net8.0\ref\Data.dll
+C:\sample-project-main\data\bin\Debug\net8.0\Data.runtimeconfig.json
+C:\sample-project-main\data\obj\Debug\net8.0\Data.genruntimeconfig.cache
+c:\sample-project-main\Data\obj\Debug\net8.0\Data.csproj.Up2Date
+C:\sample-project-main - Copy\Data\bin\Debug\net8.0\Data.deps.json
+C:\sample-project-main - Copy\Data\bin\Debug\net8.0\Data.runtimeconfig.json
+C:\sample-project-main - Copy\Data\bin\Debug\net8.0\Data.dll
+C:\sample-project-main - Copy\Data\bin\Debug\net8.0\Data.pdb
+C:\sample-project-main - Copy\Data\bin\Debug\net8.0\Common.dll
+C:\sample-project-main - Copy\Data\bin\Debug\net8.0\Common.pdb
+C:\sample-project-main - Copy\Data\obj\Debug\net8.0\Data.csproj.AssemblyReference.cache
+C:\sample-project-main - Copy\Data\obj\Debug\net8.0\Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\sample-project-main - Copy\Data\obj\Debug\net8.0\Data.AssemblyInfoInputs.cache
+C:\sample-project-main - Copy\Data\obj\Debug\net8.0\Data.AssemblyInfo.cs
+C:\sample-project-main - Copy\Data\obj\Debug\net8.0\Data.csproj.CoreCompileInputs.cache
+C:\sample-project-main - Copy\Data\obj\Debug\net8.0\Data.csproj.CopyComplete
+C:\sample-project-main - Copy\Data\obj\Debug\net8.0\Data.dll
+C:\sample-project-main - Copy\Data\obj\Debug\net8.0\refint\Data.dll
+C:\sample-project-main - Copy\Data\obj\Debug\net8.0\Data.pdb
+C:\sample-project-main - Copy\Data\obj\Debug\net8.0\Data.genruntimeconfig.cache
+C:\sample-project-main - Copy\Data\obj\Debug\net8.0\ref\Data.dll
+C:\sample-project-main - Copy\Data\bin\Debug\net8.0\Entities.dll
+C:\sample-project-main - Copy\Data\bin\Debug\net8.0\Entities.pdb
+C:\AzureDbProject\Data\obj\Debug\net8.0\Data.csproj.AssemblyReference.cache
+C:\AzureDbProject\Data\obj\Debug\net8.0\Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\AzureDbProject\Data\obj\Debug\net8.0\Data.AssemblyInfoInputs.cache
+C:\AzureDbProject\Data\obj\Debug\net8.0\Data.AssemblyInfo.cs
+C:\AzureDbProject\Data\obj\Debug\net8.0\Data.csproj.CoreCompileInputs.cache
+C:\AzureDbProject\Data\bin\Debug\net8.0\Data.deps.json
+C:\AzureDbProject\Data\bin\Debug\net8.0\Data.runtimeconfig.json
+C:\AzureDbProject\Data\bin\Debug\net8.0\Data.dll
+C:\AzureDbProject\Data\bin\Debug\net8.0\Data.pdb
+C:\AzureDbProject\Data\bin\Debug\net8.0\Common.dll
+C:\AzureDbProject\Data\bin\Debug\net8.0\Entities.dll
+C:\AzureDbProject\Data\bin\Debug\net8.0\Common.pdb
+C:\AzureDbProject\Data\bin\Debug\net8.0\Entities.pdb
+C:\AzureDbProject\Data\obj\Debug\net8.0\Data.csproj.CopyComplete
+C:\AzureDbProject\Data\obj\Debug\net8.0\Data.dll
+C:\AzureDbProject\Data\obj\Debug\net8.0\refint\Data.dll
+C:\AzureDbProject\Data\obj\Debug\net8.0\Data.pdb
+C:\AzureDbProject\Data\obj\Debug\net8.0\Data.genruntimeconfig.cache
+C:\AzureDbProject\Data\obj\Debug\net8.0\ref\Data.dll

@@ -1,0 +1,37 @@
+C:\sample-project-main\Common\bin\Debug\net8.0\Common.deps.json
+C:\sample-project-main\Common\bin\Debug\net8.0\Common.dll
+C:\sample-project-main\Common\bin\Debug\net8.0\Common.pdb
+C:\sample-project-main\Common\obj\Debug\net8.0\Common.csproj.AssemblyReference.cache
+C:\sample-project-main\Common\obj\Debug\net8.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\sample-project-main\Common\obj\Debug\net8.0\Common.AssemblyInfoInputs.cache
+C:\sample-project-main\Common\obj\Debug\net8.0\Common.AssemblyInfo.cs
+C:\sample-project-main\Common\obj\Debug\net8.0\Common.csproj.CoreCompileInputs.cache
+C:\sample-project-main\Common\obj\Debug\net8.0\Common.sourcelink.json
+C:\sample-project-main\Common\obj\Debug\net8.0\Common.dll
+C:\sample-project-main\Common\obj\Debug\net8.0\refint\Common.dll
+C:\sample-project-main\Common\obj\Debug\net8.0\Common.pdb
+C:\sample-project-main\Common\obj\Debug\net8.0\ref\Common.dll
+C:\sample-project-main - Copy\Common\bin\Debug\net8.0\Common.deps.json
+C:\sample-project-main - Copy\Common\bin\Debug\net8.0\Common.dll
+C:\sample-project-main - Copy\Common\bin\Debug\net8.0\Common.pdb
+C:\sample-project-main - Copy\Common\obj\Debug\net8.0\Common.csproj.AssemblyReference.cache
+C:\sample-project-main - Copy\Common\obj\Debug\net8.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\sample-project-main - Copy\Common\obj\Debug\net8.0\Common.AssemblyInfoInputs.cache
+C:\sample-project-main - Copy\Common\obj\Debug\net8.0\Common.AssemblyInfo.cs
+C:\sample-project-main - Copy\Common\obj\Debug\net8.0\Common.csproj.CoreCompileInputs.cache
+C:\sample-project-main - Copy\Common\obj\Debug\net8.0\Common.dll
+C:\sample-project-main - Copy\Common\obj\Debug\net8.0\refint\Common.dll
+C:\sample-project-main - Copy\Common\obj\Debug\net8.0\Common.pdb
+C:\sample-project-main - Copy\Common\obj\Debug\net8.0\ref\Common.dll
+C:\AzureDbProject\Common\bin\Debug\net8.0\Common.deps.json
+C:\AzureDbProject\Common\bin\Debug\net8.0\Common.dll
+C:\AzureDbProject\Common\bin\Debug\net8.0\Common.pdb
+C:\AzureDbProject\Common\obj\Debug\net8.0\Common.csproj.AssemblyReference.cache
+C:\AzureDbProject\Common\obj\Debug\net8.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\AzureDbProject\Common\obj\Debug\net8.0\Common.AssemblyInfoInputs.cache
+C:\AzureDbProject\Common\obj\Debug\net8.0\Common.AssemblyInfo.cs
+C:\AzureDbProject\Common\obj\Debug\net8.0\Common.csproj.CoreCompileInputs.cache
+C:\AzureDbProject\Common\obj\Debug\net8.0\Common.dll
+C:\AzureDbProject\Common\obj\Debug\net8.0\refint\Common.dll
+C:\AzureDbProject\Common\obj\Debug\net8.0\Common.pdb
+C:\AzureDbProject\Common\obj\Debug\net8.0\ref\Common.dll
