@@ -1,4 +1,0 @@
-C:\sample-project-main\publish\Common.dll
-C:\sample-project-main\publish\Common.deps.json
-C:\sample-project-main\publish\Common.pdb
-C:\sample-project-main\publish\SimpleInjector.dll
